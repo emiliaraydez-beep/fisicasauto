@@ -1,0 +1,10 @@
+LIBRARY VehiculoSim
+EXPORTS
+    SimVersion
+    SimAttach
+    SimDetach
+    SimTick
+    SimMotor
+    SimServicio
+    SimPonerHumedad
+    SimTelemetria
